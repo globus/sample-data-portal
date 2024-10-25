@@ -8,6 +8,7 @@
     "version": "1.0.0",
     "attributes": {
       "content": {
+        "image": "/img/home-bg.jpg",
         "title": "Modern Research Data Portal"
       },
       "globus": {
