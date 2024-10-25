@@ -14,8 +14,9 @@ Our Serverless Portals require no additional managed infrastructure to enable yo
 
 ## Django-based Portals
 
-The [Django Globus Portal Framework](https://django-globus-portal-framework.readthedocs.io/en/stable/) is a collection of tools for quickly bootstrapping a portal for Globus Search.
+The [Django Globus Portal Framework](https://github.com/globus/django-globus-portal-framework) is a collection of tools that enable you to rapidly create an easily accessible portal for your data. Tailoring your portal to your data can be done simply by modifying existing bulit-in Bootstrap templates, allowing many levels of customization to suit the required needs.
 
+You can find more information, installation and usage instructions on our [Read The Docs page](https://django-globus-portal-framework.readthedocs.io/en/stable/).
 
 ## Integrating Globus Capabilities into Applications
 
